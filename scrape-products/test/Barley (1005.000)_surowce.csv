@@ -1,0 +1,119 @@
+Label,Value,Unit
+DM,873,873 g/kg - in Prod
+ASH,21,21 g/kg - in Prod
+CPin,102,102 g/kg - in Prod
+CP,102,102 g/kg - in Prod
+CFAT,18,18 g/kg - in Prod
+CFATh,27,27 g/kg - in Prod
+CF,47,47 g/kg - in Prod
+NFE,685,685 g/kg - in Prod
+NFEh,677,677 g/kg - in Prod
+STAew,517,517 g/kg - in Prod
+STAam,502,502 g/kg - in Prod
+GOS,,g/kg - in Prod
+SUG,22,22 g/kg - in Prod
+NDF,141,141 g/kg - in Prod
+ADF,56,56 g/kg - in Prod
+ADL,13,13 g/kg - in Prod
+NSP,210,210 g/kg - in Prod
+NSPh,201,201 g/kg - in Prod
+RNSP,69,69 g/kg - in Prod
+Ca,0.5,0.5 g/kg - in Prod
+P,3.2,3.2 g/kg - in Prod
+IP,2.4,2.4 g/kg - in Prod
+Mg,1.1,1.1 g/kg - in Prod
+K,4.9,4.9 g/kg - in Prod
+Na,0.1,0.1 g/kg - in Prod
+Cl,1.0,1.0 g/kg - in Prod
+S-i,0.1,0.1 g/kg - in Prod
+S-o,1.0,1.0 g/kg - in Prod
+S,1.0,1.0 g/kg - in Prod
+Fe,51,51 mg/kg - in Prod
+Mn,16,16 mg/kg - in Prod
+Zn,30,30 mg/kg - in Prod
+Cu,4,4 mg/kg - in Prod
+Mo,0.8,0.8 mg/kg - in Prod
+J,0.1,0.1 mg/kg - in Prod
+Co,0.3,0.3 mg/kg - in Prod
+FP,,g/kg - in Prod
+LA,,g/kg - in Prod
+AC,,g/kg - in Prod
+ETH,,g/kg - in Prod
+PR,,g/kg - in Prod
+BU,,g/kg - in Prod
+NH3,,% - in CP
+%RUP,30.9,30.9 % - in Prod
+%DRUP,79.5,79.5 % - in Prod
+%RUSTA,11.8,11.8 % - -
+FOMr-07,629,629 g/kg - in Prod
+FOMr2-07,386,386 g/kg - in Prod
+FOMr2/FOMr,0.61,0.61 /kg - -
+DVE-07,101,101 g/kg - in Prod
+OEB-07,-59,-59 g/kg - in Prod
+OEB2-07,-50,-50 g/kg - in Prod
+DVMET-07,2.4,2.4 g/kg - in Prod
+DVLYS-07,6.7,6.7 g/kg - in Prod
+DVME-07,79.3,79.3 g/kg - in Prod
+DVBE-07,32.8,32.8 g/kg - in Prod
+SW,-0.05,-0.05 - - in Prod
+VW,0.25,0.25 - - in Prod
+VEM,980,980 - - in Prod
+VEM2022,980,980 /kg - in Prod
+VEVI,1070,1070 - - in Prod
+MErab,12.15,12.15 MJ - in Prod
+MErab,2904,2904 kcal/kg - in Prod
+NEm,9.03,9.03 MJ - in Prod
+NEm,2159,2159 kcal/kg - in Prod
+EWpa,1.012,1.012 /kg - in Prod
+DCPho,81,81 g/kg - in Prod
+MEpo,11.76,11.76 MJ - in Prod
+MEpo,2810,2810 kcal/kg - in Prod
+MEla,11.83,11.83 MJ - in Prod
+MEla,2826,2826 kcal/kg - in Prod
+DPpo,1.2,1.2 g/kg - in Prod
+MEbr,10.68,10.68 MJ - in Prod
+MEbr,2552,2552 kcal/kg - in Prod
+NE2015,9.85,9.85 MJ - in Prod
+NE2015,2354,2354 kcal/kg - in Prod
+EW2015,1.12,1.12 - - in Prod
+StaDP,1.1,1.1 g/kg - in Prod
+AppDP,1.0,1.0 g/kg - in Prod
+LYS,3.7,3.7 g/kg - in Prod
+MET,1.7,1.7 g/kg - in Prod
+CYS,2.2,2.2 g/kg - in Prod
+THR,3.5,3.5 g/kg - in Prod
+TRP,1.2,1.2 g/kg - in Prod
+ILE,3.6,3.6 g/kg - in Prod
+ARG,5.0,5.0 g/kg - in Prod
+PHE,5.1,5.1 g/kg - in Prod
+HIS,2.2,2.2 g/kg - in Prod
+LEU,7.0,7.0 g/kg - in Prod
+TYR,3.2,3.2 g/kg - in Prod
+VAL,5.0,5.0 g/kg - in Prod
+ALA,4.2,4.2 g/kg - in Prod
+ASP,6.1,6.1 g/kg - in Prod
+GLU,23.9,23.9 g/kg - in Prod
+GLY,4.1,4.1 g/kg - in Prod
+PRO,11.0,11.0 g/kg - in Prod
+SER,4.3,4.3 g/kg - in Prod
+Sum AA,97,97 g/kg - in Prod
+<=C10,0.0,0.0 g/kg - in Prod
+C12:0,0.0,0.0 g/kg - in Prod
+C14:0,0.1,0.1 g/kg - in Prod
+C16:0,2.9,2.9 g/kg - in Prod
+C16:1,0.1,0.1 g/kg - in Prod
+C18:0,0.1,0.1 g/kg - in Prod
+C18:1,1.7,1.7 g/kg - in Prod
+C:18:2,7.1,7.1 g/kg - in Prod
+C18:3,0.8,0.8 g/kg - in Prod
+>=C20,0.0,0.0 g/kg - in Prod
+Sum FA,12.7,12.7 g/kg - in Prod
+CFAT(h),18.2,18.2 g/kg - in Prod
+IP/P,75,75 % - -
+SUGe/SUG,75,75 % -
+CF_DI,0.96,0.96 - -
+EB (meq/kg),100,100 - in Prod
+CAD (meq/kg),33,33 - in Prod
+Glycerol,,g/kg - in Prod
+,721.8,721.8 g/kg - in Prod
+Ensiling period maize silage,,Day - -

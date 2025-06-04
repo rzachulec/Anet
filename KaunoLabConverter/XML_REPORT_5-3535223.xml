@@ -1,0 +1,115 @@
+<?xml version = '1.0' encoding = 'ISO-8859-1'?>
+<XML_REPORT type="XML" mandant="AGROLAB LUFA GmbH">
+   <KUNDE>
+      <BETRNR label="Customer No." ist_with_pnr="0">10003870</BETRNR>
+      <ANSPRECH/>
+      <AUFTRAG>
+         <AUFTRAGSNUMMER label="added orderNo.">3535223</AUFTRAGSNUMMER>
+         <AUFTRAGSNAME label="Order reference">Sampling act of feed raw material No 1953</AUFTRAGSNAME>
+         <STATUS_A>B</STATUS_A>
+         <EXTERN_A/>
+         <GRENZLISTE_A/>
+         <STD_SUBSTANZ>OS</STD_SUBSTANZ>
+         <PROBENART>5</PROBENART>
+         <TERMIN_A>23.12.2024</TERMIN_A>
+         <EINDAT_A>11.12.2024</EINDAT_A>
+         <ABSDATUM_A>16.12.2024</ABSDATUM_A>
+         <LABORFREIGABE_A>11.12.2024</LABORFREIGABE_A>
+         <PROJEKTNUMMER label="Project nr."/>
+         <PROBENEHMER> Auftraggeber</PROBENEHMER>
+         <PROBENEHMER_ID/>
+         <RINGNR/>
+         <KUNDENINFO/>
+         <INFO>1 x Betain auf Betain    (8 AT)</INFO>
+         <LAND_EMPF>LT</LAND_EMPF>
+         <PROBE>
+            <AUFNR_D>3535223</AUFNR_D>
+            <ANALYSENNUMMER label="Analysis No.">517377</ANALYSENNUMMER>
+            <PROBENBEZEICHNUNG label="Sample name">5) Betaine Hydrochloride 97% Healthy (Henan) Biotech Co., Ltd. Batch No: 2024070603  
+ Seal. No.: 2472335
+</PROBENBEZEICHNUNG>
+            <PROBENNUMMER label="Sample number"/>
+            <UNTERPROBENART>07</UNTERPROBENART>
+            <PNDATUM_KOMPLETT>##Analynr517377:Kombination von Probenahmezeitraum (not specified) und Formatangabe (dd.mm.yyyy hh24:mi) nicht möglich</PNDATUM_KOMPLETT>
+            <PNDATUM_UNFORMATIERT>not specified</PNDATUM_UNFORMATIERT>
+            <STAMMNR/>
+            <STAMMNR2/>
+            <BEMERKUNG1/>
+            <BEMERKUNG2/>
+            <BEMERKUNG3 label="Remark"/>
+            <BEMERKUNG4/>
+            <INFO_UNTERPROBENART>Additives / pure substances / (trace-)elements</INFO_UNTERPROBENART>
+            <ANALYTIK>
+               <PARAMETER>
+                  <UEBERSCHRIFT_LFDNR>999999</UEBERSCHRIFT_LFDNR>
+                  <SORT_PNR>0</SORT_PNR>
+                  <NAME_EXTERN label="Parameter">Betaine</NAME_EXTERN>
+                  <AL_PNR ist_sumparam="0" ist_einzel_in_analyse="0">77778</AL_PNR>
+                  <EINHEIT_DB>%</EINHEIT_DB>
+                  <EINHEIT_SUBSTANZ label="Unit">%</EINHEIT_SUBSTANZ>
+                  <AL_EINHEIT_TS>%</AL_EINHEIT_TS>
+                  <AL_GERAETE_ID>50749</AL_GERAETE_ID>
+                  <AL_GERAETE_TEXT>HPLC-SO Rest</AL_GERAETE_TEXT>
+                  <METHODE_ID>9316</METHODE_ID>
+                  <METHODE>9316</METHODE>
+                  <GERAETE_ID>50749</GERAETE_ID>
+                  <MOD_EINHEIT>%</MOD_EINHEIT>
+                  <PARAMETER_ID>77778</PARAMETER_ID>
+                  <UEBERSCHRIFT_INR label="Sonstige Untersuchungsparameter">999999</UEBERSCHRIFT_INR>
+                  <NAME_INTERN_PG>Betain</NAME_INTERN_PG>
+                  <IST_SUM_PARAM>0</IST_SUM_PARAM>
+                  <IST_EINZEL_IN_ANALYSE>0</IST_EINZEL_IN_ANALYSE>
+                  <BESTIMMUNGSGRENZE label="LOQ standard (can differ in individual cases)">,5</BESTIMMUNGSGRENZE>
+                  <NWG_PG>,5</NWG_PG>
+                  <NWG_BEFUND label="Detection limit">,5</NWG_BEFUND>
+                  <BG_PG>,5</BG_PG>
+                  <AKKREDITIERT label="Acreditation">J</AKKREDITIERT>
+                  <ERGEBNIS_SUBSTANZ>OS</ERGEBNIS_SUBSTANZ>
+                  <METHODE_FELD_PG/>
+                  <METHODE_PG label="Method">MP-01308-DE : 2023-09 (HPLC)</METHODE_PG>
+                  <SPRACHE_EMPF>EN</SPRACHE_EMPF>
+                  <ZULASSUNG_PG/>
+                  <T_ART>in</T_ART>
+                  <LABOR_PG/>
+                  <FREMDLABOR_NAME_FL/>
+                  <UNTER_NWG_PG/>
+                  <REFERENTIE>1 / (number) </REFERENTIE>
+                  <CP_UDM_ERG_FORMAT/>
+                  <CP_UDM_TYPE/>
+                  <CP_GRENZE_VERLETZT>0</CP_GRENZE_VERLETZT>
+                  <CP_ERG_IS_NUMBER>0</CP_ERG_IS_NUMBER>
+                  <CP_ERGEB_ART/>
+                  <CP_ERGEB_SONDER/>
+                  <AL_PNR_EXT>77778-0-0</AL_PNR_EXT>
+                  <CP_EINHEIT>%</CP_EINHEIT>
+                  <GRENZWERT label="Limit value">-</GRENZWERT>
+                  <RICHTWERT label="Reference value">-</RICHTWERT>
+                  <CP_NEW_ROW_CONTROL>0099999900000000Betaine%</CP_NEW_ROW_CONTROL>
+                  <waardebewerkingsmethode/>
+                  <ERG_E>73,9</ERG_E>
+                  <KUNDENGRENZWERT label="Customer limit">-</KUNDENGRENZWERT>
+               </PARAMETER>
+            </ANALYTIK>
+            <ERHEBDATEN>
+               <AUFNR_VD>3535223</AUFNR_VD>
+               <FELD>ERHEBDAT_C2</FELD>
+               <ERHEBDATUM type="Packaging">Sealbag, 2472335</ERHEBDATUM>
+               <CF_1>0</CF_1>
+               <CP_IST_VORORT>0 5 - 07 - ERHEBDAT_C2</CP_IST_VORORT>
+            </ERHEBDATEN>
+            <ERHEBDATEN>
+               <AUFNR_VD>3535223</AUFNR_VD>
+               <FELD>ERHEBDAT_C4</FELD>
+               <ERHEBDATUM type="Batch/Charge/Lot">2024070603</ERHEBDATUM>
+               <CF_1>0</CF_1>
+               <CP_IST_VORORT>0 5 - 07 - ERHEBDAT_C4</CP_IST_VORORT>
+            </ERHEBDATEN>
+            <PNDATUM_D label="Sample taking date">not specified</PNDATUM_D>
+         </PROBE>
+         <SACHBEARBEITER_NAME>Service Team Feed Concentrates</SACHBEARBEITER_NAME>
+         <SACHBEARBEITER_KURZ>FC</SACHBEARBEITER_KURZ>
+         <PROJEKTNAME label="Project name"/>
+         <CP_SIKB_STATUS>5</CP_SIKB_STATUS>
+      </AUFTRAG>
+   </KUNDE>
+</XML_REPORT>

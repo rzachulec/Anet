@@ -1,0 +1,952 @@
+{
+    "Samples": [
+        {
+            "IngredientCode": "00027544-402252",
+            "SampleCode": "sample 1",
+            "Description": [
+                {
+                    "LanguageCode": "EN",
+                    "Description": "sample 1"
+                }
+            ],
+            "Analysis": [
+                {
+                    "NutrientCode": "VBDS",
+                    "NutrientDescription": "DM",
+                    "UnitCode": "%",
+                    "Value": 45.4
+                },
+                {
+                    "NutrientCode": "VAVCHT",
+                    "NutrientDescription": "Moisture (g/kg)",
+                    "UnitCode": "%",
+                    "Value": 4.67
+                },
+                {
+                    "NutrientCode": "VANH3L",
+                    "NutrientDescription": "NH3 Airdry",
+                    "UnitCode": "%",
+                    "Value": 0.408
+                },
+                {
+                    "NutrientCode": "VANH3V",
+                    "NutrientDescription": "Ammonia fresh",
+                    "UnitCode": "%",
+                    "Value": 0.035
+                },
+                {
+                    "NutrientCode": "VAPH",
+                    "NutrientDescription": "pH",
+                    "UnitCode": "MINLOG",
+                    "Value": 4.0
+                },
+                {
+                    "NutrientCode": "VAAZDS",
+                    "NutrientDescription": "Acetic acid",
+                    "UnitCode": "%",
+                    "Value": 1.3
+                },
+                {
+                    "NutrientCode": "VBAZDS",
+                    "NutrientDescription": "Acetic acid",
+                    "UnitCode": "%",
+                    "Value": 1.1
+                },
+                {
+                    "NutrientCode": "VAMZDS",
+                    "NutrientDescription": "Lactic acid",
+                    "UnitCode": "%",
+                    "Value": 4.0
+                },
+                {
+                    "NutrientCode": "VBDGAM",
+                    "NutrientDescription": "Days 1 apr.-mow.date",
+                    "UnitCode": "NBR",
+                    "Value": 190.0
+                },
+                {
+                    "NutrientCode": "VBVEM",
+                    "NutrientDescription": "VEM",
+                    "UnitCode": "VEMKGM",
+                    "Value": 909.0
+                },
+                {
+                    "NutrientCode": "VPVEM",
+                    "NutrientDescription": "VEM",
+                    "UnitCode": "VEMKGM",
+                    "Value": 412.0
+                },
+                {
+                    "NutrientCode": "VBVEVI",
+                    "NutrientDescription": "VEVI",
+                    "UnitCode": "BLNC",
+                    "Value": 931.0
+                },
+                {
+                    "NutrientCode": "VPVEVI",
+                    "NutrientDescription": "VEVI",
+                    "UnitCode": "BLNC",
+                    "Value": 422.0
+                },
+                {
+                    "NutrientCode": "VBDVEP",
+                    "NutrientDescription": "DVE+",
+                    "UnitCode": "%",
+                    "Value": 3.4
+                },
+                {
+                    "NutrientCode": "VPDVEP",
+                    "NutrientDescription": "DVE+",
+                    "UnitCode": "%",
+                    "Value": 1.5
+                },
+                {
+                    "NutrientCode": "VBOEBP",
+                    "NutrientDescription": "OEB+",
+                    "UnitCode": "%",
+                    "Value": -2.7
+                },
+                {
+                    "NutrientCode": "VPOEBP",
+                    "NutrientDescription": "OEB+",
+                    "UnitCode": "%",
+                    "Value": -1.2
+                },
+                {
+                    "NutrientCode": "VBVOS",
+                    "NutrientDescription": "VOS",
+                    "UnitCode": "%",
+                    "Value": 69.2
+                },
+                {
+                    "NutrientCode": "VPVOS",
+                    "NutrientDescription": "VOS",
+                    "UnitCode": "%",
+                    "Value": 31.4
+                },
+                {
+                    "NutrientCode": "VBFOSP",
+                    "NutrientDescription": "FOSp+",
+                    "UnitCode": "%",
+                    "Value": 42.2
+                },
+                {
+                    "NutrientCode": "VPFOSP",
+                    "NutrientDescription": "FOSp+",
+                    "UnitCode": "%",
+                    "Value": 19.1
+                },
+                {
+                    "NutrientCode": "VBDVAL",
+                    "NutrientDescription": "Lysine (calc)",
+                    "UnitCode": "%",
+                    "Value": 0.22
+                },
+                {
+                    "NutrientCode": "VBDVAM",
+                    "NutrientDescription": "Methion.(calc)",
+                    "UnitCode": "%",
+                    "Value": 0.09
+                },
+                {
+                    "NutrientCode": "VBSW",
+                    "NutrientDescription": "Structure value",
+                    "UnitCode": "BLNC",
+                    "Value": 2.5
+                },
+                {
+                    "NutrientCode": "VALDS",
+                    "NutrientDescription": "Air dry matter",
+                    "UnitCode": "%",
+                    "Value": 47.649
+                },
+                {
+                    "NutrientCode": "VADS",
+                    "NutrientDescription": "DM",
+                    "UnitCode": "%",
+                    "Value": 45.377
+                },
+                {
+                    "NutrientCode": "VARAS",
+                    "NutrientDescription": "Crude ash",
+                    "UnitCode": "%",
+                    "Value": 3.4
+                },
+                {
+                    "NutrientCode": "VAVCOS",
+                    "NutrientDescription": "Dig.OM% (%OM)",
+                    "UnitCode": "%",
+                    "Value": 71.6
+                },
+                {
+                    "NutrientCode": "VBNH3F",
+                    "NutrientDescription": "NH3-fraction (%CP)",
+                    "UnitCode": "%",
+                    "Value": 8.0
+                },
+                {
+                    "NutrientCode": "VARE",
+                    "NutrientDescription": "Crude protein",
+                    "UnitCode": "%",
+                    "Value": 5.5
+                },
+                {
+                    "NutrientCode": "VBREIN",
+                    "NutrientDescription": "Cr.Protein total",
+                    "UnitCode": "%",
+                    "Value": 6.0
+                },
+                {
+                    "NutrientCode": "VAOEW",
+                    "NutrientDescription": "Insoluble protein",
+                    "UnitCode": "%",
+                    "Value": 2.5
+                },
+                {
+                    "NutrientCode": "VBREO%",
+                    "NutrientDescription": "Soluble Cr.Prot(%CP)",
+                    "UnitCode": "%",
+                    "Value": 58.0
+                },
+                {
+                    "NutrientCode": "VARVET",
+                    "NutrientDescription": "Crude fat",
+                    "UnitCode": "%",
+                    "Value": 2.2
+                },
+                {
+                    "NutrientCode": "VARC",
+                    "NutrientDescription": "Crude fibre",
+                    "UnitCode": "%",
+                    "Value": 25.2
+                },
+                {
+                    "NutrientCode": "VASUIK",
+                    "NutrientDescription": "Sugar",
+                    "UnitCode": "%",
+                    "Value": 1.2
+                },
+                {
+                    "NutrientCode": "VAZET",
+                    "NutrientDescription": "Starch",
+                    "UnitCode": "%",
+                    "Value": 22.6
+                },
+                {
+                    "NutrientCode": "VBBZET",
+                    "NutrientDescription": "Bypass starch (%)",
+                    "UnitCode": "%",
+                    "Value": 21.0
+                },
+                {
+                    "NutrientCode": "VBBZTM",
+                    "NutrientDescription": "Bypass starch (g)",
+                    "UnitCode": "%",
+                    "Value": 4.9
+                },
+                {
+                    "NutrientCode": "VANDF",
+                    "NutrientDescription": "NDF",
+                    "UnitCode": "%",
+                    "Value": 51.1
+                },
+                {
+                    "NutrientCode": "VANDFS",
+                    "NutrientDescription": "NDF van Soest",
+                    "UnitCode": "%",
+                    "Value": 22.504
+                },
+                {
+                    "NutrientCode": "VBVCW",
+                    "NutrientDescription": "NDF digest.(%NDF)",
+                    "UnitCode": "%",
+                    "Value": 56.0
+                },
+                {
+                    "NutrientCode": "VAADF",
+                    "NutrientDescription": "ADF",
+                    "UnitCode": "%",
+                    "Value": 30.1
+                },
+                {
+                    "NutrientCode": "VAADL",
+                    "NutrientDescription": "ADL",
+                    "UnitCode": "%",
+                    "Value": 2.1
+                },
+                {
+                    "NutrientCode": "VAA2",
+                    "NutrientDescription": "A2",
+                    "UnitCode": "MLTGRM",
+                    "Value": 226.0
+                },
+                {
+                    "NutrientCode": "VAB2",
+                    "NutrientDescription": "B2 (hour)",
+                    "UnitCode": "HUR",
+                    "Value": 7.88
+                },
+                {
+                    "NutrientCode": "VBREI2",
+                    "NutrientDescription": "Cr.Protein+NH3N",
+                    "UnitCode": "%",
+                    "Value": 5.9
+                },
+                {
+                    "NutrientCode": "VBELOS",
+                    "NutrientDescription": "ELOS",
+                    "UnitCode": "%",
+                    "Value": 63.2
+                },
+                {
+                    "NutrientCode": "VBNEL",
+                    "NutrientDescription": "NEL (MJ)",
+                    "UnitCode": "JK",
+                    "Value": 6.0
+                },
+                {
+                    "NutrientCode": "VPNEL",
+                    "NutrientDescription": "NEL (MJ)",
+                    "UnitCode": "JK",
+                    "Value": 2.7
+                },
+                {
+                    "NutrientCode": "VBNELE",
+                    "NutrientDescription": "NEL ELOS (MJ)",
+                    "UnitCode": "JK",
+                    "Value": 6.0
+                },
+                {
+                    "NutrientCode": "VPNELE",
+                    "NutrientDescription": "NEL ELOS (MJ)",
+                    "UnitCode": "JK",
+                    "Value": 2.7
+                },
+                {
+                    "NutrientCode": "VBNVC",
+                    "NutrientDescription": "NEL-VC (MJ)",
+                    "UnitCode": "JK",
+                    "Value": 6.2
+                },
+                {
+                    "NutrientCode": "VPNVC",
+                    "NutrientDescription": "NEL-VC (MJ)",
+                    "UnitCode": "JK",
+                    "Value": 2.8
+                },
+                {
+                    "NutrientCode": "VBME",
+                    "NutrientDescription": "ME (MJ)",
+                    "UnitCode": "JK",
+                    "Value": 10.2
+                },
+                {
+                    "NutrientCode": "VPME",
+                    "NutrientDescription": "ME (MJ)",
+                    "UnitCode": "JK",
+                    "Value": 4.6
+                },
+                {
+                    "NutrientCode": "VBMEE",
+                    "NutrientDescription": "ME (MJ)",
+                    "UnitCode": "JK",
+                    "Value": 10.1
+                },
+                {
+                    "NutrientCode": "VPMEE",
+                    "NutrientDescription": "ME (MJ)",
+                    "UnitCode": "JK",
+                    "Value": 4.6
+                },
+                {
+                    "NutrientCode": "VBNXP",
+                    "NutrientDescription": "nXP",
+                    "UnitCode": "%",
+                    "Value": 11.9
+                },
+                {
+                    "NutrientCode": "VPNXP",
+                    "NutrientDescription": "nXP",
+                    "UnitCode": "%",
+                    "Value": 5.4
+                },
+                {
+                    "NutrientCode": "VBNXPE",
+                    "NutrientDescription": "nXP",
+                    "UnitCode": "%",
+                    "Value": 11.8
+                },
+                {
+                    "NutrientCode": "VPNXPE",
+                    "NutrientDescription": "nXP",
+                    "UnitCode": "%",
+                    "Value": 5.4
+                },
+                {
+                    "NutrientCode": "VBUDP",
+                    "NutrientDescription": "UDP",
+                    "UnitCode": "%",
+                    "Value": 1.5
+                },
+                {
+                    "NutrientCode": "VPUDP",
+                    "NutrientDescription": "UDP",
+                    "UnitCode": "%",
+                    "Value": 0.7
+                },
+                {
+                    "NutrientCode": "VBRNB1",
+                    "NutrientDescription": "RNB",
+                    "UnitCode": "%",
+                    "Value": -0.97
+                },
+                {
+                    "NutrientCode": "VPRNB1",
+                    "NutrientDescription": "RNB",
+                    "UnitCode": "%",
+                    "Value": -0.44
+                },
+                {
+                    "NutrientCode": "VBRNBE",
+                    "NutrientDescription": "RNB",
+                    "UnitCode": "%",
+                    "Value": -0.95
+                },
+                {
+                    "NutrientCode": "VPRNBE",
+                    "NutrientDescription": "RNB",
+                    "UnitCode": "%",
+                    "Value": -0.43
+                },
+                {
+                    "NutrientCode": "VBNFCD",
+                    "NutrientDescription": "NFC",
+                    "UnitCode": "%",
+                    "Value": 37.4
+                },
+                {
+                    "NutrientCode": "VBVCOI",
+                    "NutrientDescription": "dMO INRA (%OM)",
+                    "UnitCode": "%",
+                    "Value": 69.5
+                },
+                {
+                    "NutrientCode": "VBUFLN",
+                    "NutrientDescription": "UFL",
+                    "UnitCode": "BLNC",
+                    "Value": 0.93
+                },
+                {
+                    "NutrientCode": "VBUFVN",
+                    "NutrientDescription": "UFV",
+                    "UnitCode": "BLNC",
+                    "Value": 0.87
+                },
+                {
+                    "NutrientCode": "VBRPB",
+                    "NutrientDescription": "RPB",
+                    "UnitCode": "%",
+                    "Value": -4.8
+                },
+                {
+                    "NutrientCode": "VBPDI",
+                    "NutrientDescription": "PDI",
+                    "UnitCode": "%",
+                    "Value": 6.0
+                },
+                {
+                    "NutrientCode": "VBPIAN",
+                    "NutrientDescription": "PDIA",
+                    "UnitCode": "%",
+                    "Value": 0.9
+                },
+                {
+                    "NutrientCode": "VBUEB",
+                    "NutrientDescription": "UEB",
+                    "UnitCode": "BLNC",
+                    "Value": 0.95
+                },
+                {
+                    "NutrientCode": "VBUEL",
+                    "NutrientDescription": "UEL",
+                    "UnitCode": "BLNC",
+                    "Value": 0.9
+                },
+                {
+                    "NutrientCode": "VBUEM",
+                    "NutrientDescription": "UEM",
+                    "UnitCode": "BLNC",
+                    "Value": 1.32
+                },
+                {
+                    "NutrientCode": "VBRUPN",
+                    "NutrientDescription": "RUP",
+                    "UnitCode": "%",
+                    "Value": 1.9
+                },
+                {
+                    "NutrientCode": "VBRDPN",
+                    "NutrientDescription": "RDP",
+                    "UnitCode": "%",
+                    "Value": 4.1
+                },
+                {
+                    "NutrientCode": "VBRFV",
+                    "NutrientDescription": "RFV",
+                    "UnitCode": "BLNC",
+                    "Value": 119.0
+                },
+                {
+                    "NutrientCode": "VBTDN1",
+                    "NutrientDescription": "TDN 1x maint (%)",
+                    "UnitCode": "%",
+                    "Value": 68.0
+                },
+                {
+                    "NutrientCode": "VBTDN3",
+                    "NutrientDescription": "TDN (%)",
+                    "UnitCode": "%",
+                    "Value": 64.1
+                },
+                {
+                    "NutrientCode": "VBNEL1",
+                    "NutrientDescription": "NEL 1x(Mcal)",
+                    "UnitCode": "MCALKGM",
+                    "Value": 1.57
+                },
+                {
+                    "NutrientCode": "VBNELU",
+                    "NutrientDescription": "NEL (Mcal)",
+                    "UnitCode": "MCALKGM",
+                    "Value": 1.45
+                },
+                {
+                    "NutrientCode": "VBNEM1",
+                    "NutrientDescription": "NEM 1x(Mcal)",
+                    "UnitCode": "MCALKGM",
+                    "Value": 1.51
+                },
+                {
+                    "NutrientCode": "VBNEUM",
+                    "NutrientDescription": "NEM (Mcal)",
+                    "UnitCode": "MCALKGM",
+                    "Value": 1.39
+                },
+                {
+                    "NutrientCode": "VBNEG1",
+                    "NutrientDescription": "NEG 1x(Mcal)",
+                    "UnitCode": "MCALKGM",
+                    "Value": 0.92
+                },
+                {
+                    "NutrientCode": "VBNEUG",
+                    "NutrientDescription": "NEG (Mcal)",
+                    "UnitCode": "MCALKGM",
+                    "Value": 0.81
+                },
+                {
+                    "NutrientCode": "VBPREN",
+                    "NutrientDescription": "CP total (%)",
+                    "UnitCode": "%",
+                    "Value": 6.0
+                },
+                {
+                    "NutrientCode": "VBPREE",
+                    "NutrientDescription": "CP (%CP total)",
+                    "UnitCode": "%",
+                    "Value": 91.7
+                },
+                {
+                    "NutrientCode": "VBPRE",
+                    "NutrientDescription": "CP ex.NH3N(%)",
+                    "UnitCode": "%",
+                    "Value": 5.5
+                },
+                {
+                    "NutrientCode": "VBNH31",
+                    "NutrientDescription": "NH3-fraction (%CP)",
+                    "UnitCode": "%",
+                    "Value": 8.1
+                },
+                {
+                    "NutrientCode": "VBPNH3",
+                    "NutrientDescription": "Ammonia(%)",
+                    "UnitCode": "%",
+                    "Value": 0.5
+                },
+                {
+                    "NutrientCode": "VBREO1",
+                    "NutrientDescription": "Sol.CP(%CP)",
+                    "UnitCode": "%",
+                    "Value": 58.3
+                },
+                {
+                    "NutrientCode": "VBPREO",
+                    "NutrientDescription": "Sol.prot.(%CP)",
+                    "UnitCode": "%",
+                    "Value": 3.5
+                },
+                {
+                    "NutrientCode": "VBENEE",
+                    "NutrientDescription": "NDIN CP (%)",
+                    "UnitCode": "%",
+                    "Value": 13.3
+                },
+                {
+                    "NutrientCode": "VBPNEE",
+                    "NutrientDescription": "NDICP(%)",
+                    "UnitCode": "%",
+                    "Value": 0.8
+                },
+                {
+                    "NutrientCode": "VBEAEE",
+                    "NutrientDescription": "ADIN CP (%)",
+                    "UnitCode": "%",
+                    "Value": 8.3
+                },
+                {
+                    "NutrientCode": "VBPAEE",
+                    "NutrientDescription": "ADICP(%)",
+                    "UnitCode": "%",
+                    "Value": 0.5
+                },
+                {
+                    "NutrientCode": "VBPNDF",
+                    "NutrientDescription": "NDF(%)",
+                    "UnitCode": "%",
+                    "Value": 51.1
+                },
+                {
+                    "NutrientCode": "VBNADF",
+                    "NutrientDescription": "ADF (%NDF)",
+                    "UnitCode": "%",
+                    "Value": 58.9
+                },
+                {
+                    "NutrientCode": "VBPADF",
+                    "NutrientDescription": "ADF(%)",
+                    "UnitCode": "%",
+                    "Value": 30.1
+                },
+                {
+                    "NutrientCode": "VBNADL",
+                    "NutrientDescription": "ADL (%NDF)",
+                    "UnitCode": "%",
+                    "Value": 4.1
+                },
+                {
+                    "NutrientCode": "VBPADL",
+                    "NutrientDescription": "ADL(%)",
+                    "UnitCode": "%",
+                    "Value": 2.1
+                },
+                {
+                    "NutrientCode": "VBN_07",
+                    "NutrientDescription": "NDFdig 7h(%)",
+                    "UnitCode": "%",
+                    "Value": 13.6
+                },
+                {
+                    "NutrientCode": "VBN_12",
+                    "NutrientDescription": "NDFdig 12h(%)",
+                    "UnitCode": "%",
+                    "Value": 22.9
+                },
+                {
+                    "NutrientCode": "VBN_24",
+                    "NutrientDescription": "NDFdig 24h(%)",
+                    "UnitCode": "%",
+                    "Value": 39.6
+                },
+                {
+                    "NutrientCode": "VBN_30",
+                    "NutrientDescription": "NDFdig 30h(%)",
+                    "UnitCode": "%",
+                    "Value": 45.8
+                },
+                {
+                    "NutrientCode": "VBN_48",
+                    "NutrientDescription": "NDFdig 48h(%)",
+                    "UnitCode": "%",
+                    "Value": 58.2
+                },
+                {
+                    "NutrientCode": "VBN120",
+                    "NutrientDescription": "NDFdig120h(%)",
+                    "UnitCode": "%",
+                    "Value": 71.7
+                },
+                {
+                    "NutrientCode": "VBN240",
+                    "NutrientDescription": "NDFdig240h(%)",
+                    "UnitCode": "%",
+                    "Value": 73.0
+                },
+                {
+                    "NutrientCode": "VBNPUN",
+                    "NutrientDescription": "UNDF(%NDF)",
+                    "UnitCode": "%",
+                    "Value": 27.0
+                },
+                {
+                    "NutrientCode": "VBPUNF",
+                    "NutrientDescription": "Indig.NDF(%)",
+                    "UnitCode": "%",
+                    "Value": 13.8
+                },
+                {
+                    "NutrientCode": "VBNEA1",
+                    "NutrientDescription": "A1(%CP)",
+                    "UnitCode": "%",
+                    "Value": 8.1
+                },
+                {
+                    "NutrientCode": "VBPA1",
+                    "NutrientDescription": "A1(%)",
+                    "UnitCode": "%",
+                    "Value": 0.5
+                },
+                {
+                    "NutrientCode": "VBNEA2",
+                    "NutrientDescription": "A2(%CP)",
+                    "UnitCode": "%",
+                    "Value": 50.0
+                },
+                {
+                    "NutrientCode": "VBPA2",
+                    "NutrientDescription": "A2(%)",
+                    "UnitCode": "%",
+                    "Value": 3.0
+                },
+                {
+                    "NutrientCode": "VBNEB1",
+                    "NutrientDescription": "B1(%CP)",
+                    "UnitCode": "%",
+                    "Value": 28.3
+                },
+                {
+                    "NutrientCode": "VBPB1",
+                    "NutrientDescription": "B1(%)",
+                    "UnitCode": "%",
+                    "Value": 1.7
+                },
+                {
+                    "NutrientCode": "VBNEB2",
+                    "NutrientDescription": "B2(%CP)",
+                    "UnitCode": "%",
+                    "Value": 5.0
+                },
+                {
+                    "NutrientCode": "VBPB2",
+                    "NutrientDescription": "B2(%)",
+                    "UnitCode": "%",
+                    "Value": 0.3
+                },
+                {
+                    "NutrientCode": "VBNE_C",
+                    "NutrientDescription": "C(%CP)",
+                    "UnitCode": "%",
+                    "Value": 8.3
+                },
+                {
+                    "NutrientCode": "VBP_C",
+                    "NutrientDescription": "C(%)",
+                    "UnitCode": "%",
+                    "Value": 0.5
+                },
+                {
+                    "NutrientCode": "VBERDP",
+                    "NutrientDescription": "RDP (%CP)",
+                    "UnitCode": "%",
+                    "Value": 73.4
+                },
+                {
+                    "NutrientCode": "VBPRDP",
+                    "NutrientDescription": "RDP(%)",
+                    "UnitCode": "%",
+                    "Value": 4.4
+                },
+                {
+                    "NutrientCode": "VBERUP",
+                    "NutrientDescription": "RUP (%CP)",
+                    "UnitCode": "%",
+                    "Value": 26.6
+                },
+                {
+                    "NutrientCode": "VBPRUP",
+                    "NutrientDescription": "RUP(%)",
+                    "UnitCode": "%",
+                    "Value": 1.6
+                },
+                {
+                    "NutrientCode": "VBNNFC",
+                    "NutrientDescription": "NFC(%)",
+                    "UnitCode": "%",
+                    "Value": 3.65
+                },
+                {
+                    "NutrientCode": "VBNFA1",
+                    "NutrientDescription": "A1(%NFC)",
+                    "UnitCode": "%",
+                    "Value": 3.1
+                },
+                {
+                    "NutrientCode": "VBNCA1",
+                    "NutrientDescription": "A1(%)",
+                    "UnitCode": "%",
+                    "Value": 1.1
+                },
+                {
+                    "NutrientCode": "VBNFA2",
+                    "NutrientDescription": "A2(%NFC)",
+                    "UnitCode": "%",
+                    "Value": 11.0
+                },
+                {
+                    "NutrientCode": "VBNCA2",
+                    "NutrientDescription": "A2(%)",
+                    "UnitCode": "%",
+                    "Value": 4.0
+                },
+                {
+                    "NutrientCode": "VBNFA3",
+                    "NutrientDescription": "A3(%NFC)",
+                    "UnitCode": "%",
+                    "Value": null
+                },
+                {
+                    "NutrientCode": "VBNCA3",
+                    "NutrientDescription": "A3(%)",
+                    "UnitCode": "%",
+                    "Value": null
+                },
+                {
+                    "NutrientCode": "VBNFA4",
+                    "NutrientDescription": "A4(%NFC)",
+                    "UnitCode": "%",
+                    "Value": 3.3
+                },
+                {
+                    "NutrientCode": "VBNCA4",
+                    "NutrientDescription": "A4(%)",
+                    "UnitCode": "%",
+                    "Value": 1.2
+                },
+                {
+                    "NutrientCode": "VBNFB1",
+                    "NutrientDescription": "B1(%NFC)",
+                    "UnitCode": "%",
+                    "Value": 61.9
+                },
+                {
+                    "NutrientCode": "VBNCB1",
+                    "NutrientDescription": "B1(%)",
+                    "UnitCode": "%",
+                    "Value": 22.6
+                },
+                {
+                    "NutrientCode": "VBNFB2",
+                    "NutrientDescription": "B2(%NFC)",
+                    "UnitCode": "%",
+                    "Value": 20.8
+                },
+                {
+                    "NutrientCode": "VBNCB2",
+                    "NutrientDescription": "B2(%)",
+                    "UnitCode": "%",
+                    "Value": 7.6
+                },
+                {
+                    "NutrientCode": "VBNCB3",
+                    "NutrientDescription": "B3(%)",
+                    "UnitCode": "%",
+                    "Value": 36.5
+                },
+                {
+                    "NutrientCode": "VBNC_C",
+                    "NutrientDescription": "C(%)",
+                    "UnitCode": "%",
+                    "Value": 13.8
+                },
+                {
+                    "NutrientCode": "VBBRSM",
+                    "NutrientDescription": "Overheatingsensibility",
+                    "UnitCode": "BLNC",
+                    "Value": 182.0
+                },
+                {
+                    "NutrientCode": "VACL",
+                    "NutrientDescription": "Chloride",
+                    "UnitCode": "%",
+                    "Value": 0.24
+                },
+                {
+                    "NutrientCode": "VB_IDB",
+                    "NutrientDescription": "IdDetermined",
+                    "UnitCode": "BLN",
+                    "Value": 1.0
+                },
+                {
+                    "NutrientCode": "VB_W_O",
+                    "NutrientDescription": "%WOM",
+                    "UnitCode": "%",
+                    "Value": 23.0
+                },
+                {
+                    "NutrientCode": "VB_U_O",
+                    "NutrientDescription": "%UOM",
+                    "UnitCode": "%",
+                    "Value": 18.5
+                },
+                {
+                    "NutrientCode": "VB_W_E",
+                    "NutrientDescription": "%WCP",
+                    "UnitCode": "%",
+                    "Value": 44.0
+                },
+                {
+                    "NutrientCode": "VB_U_E",
+                    "NutrientDescription": "%UCP",
+                    "UnitCode": "%",
+                    "Value": 4.1
+                },
+                {
+                    "NutrientCode": "VB_W_Z",
+                    "NutrientDescription": "%WSt",
+                    "UnitCode": "%",
+                    "Value": 42.5
+                },
+                {
+                    "NutrientCode": "VB_KDZ",
+                    "NutrientDescription": "kdSt (%/uur)",
+                    "UnitCode": "%",
+                    "Value": 14.4
+                },
+                {
+                    "NutrientCode": "VB_U_N",
+                    "NutrientDescription": "%UNDF",
+                    "UnitCode": "%",
+                    "Value": 27.4
+                },
+                {
+                    "NutrientCode": "VBDWZT",
+                    "NutrientDescription": "Total decr.%Byp.Starch",
+                    "UnitCode": "%",
+                    "Value": 1.0
+                },
+                {
+                    "NutrientCode": "VBWZ09",
+                    "NutrientDescription": "Diff.Dig.Starch(%)0-9mnth",
+                    "UnitCode": "%",
+                    "Value": 7.0
+                },
+                {
+                    "NutrientCode": "VBDZ09",
+                    "NutrientDescription": "Diff.Dig.Starch(%)0-9mnth",
+                    "UnitCode": "%",
+                    "Value": -5.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "Samples": [
+        {
+            "SampleCode": "318347",
+            "Description": [
+                {
+                    "LanguageCode": "EN",
+                    "Description": "cień test"
+                }
+            ],
+            "Analysis": [
+                {
+                    "NutrientCode": "0020",
+                    "NutrientDescription": "Moisture",
+                    "UnitCode": "%",
+                    "Value": "13.5"
+                },
+                {
+                    "NutrientCode": "0040",
+                    "NutrientDescription": "Crude Protein",
+                    "UnitCode": "%",
+                    "Value": "8"
+                },
+                {
+                    "NutrientCode": "0050",
+                    "NutrientDescription": "Fat (Ether Extract)",
+                    "UnitCode": "%",
+                    "Value": "3.5"
+                },
+                {
+                    "NutrientCode": "0060",
+                    "NutrientDescription": "Starch",
+                    "UnitCode": "%",
+                    "Value": "65.1"
+                },
+                {
+                    "NutrientCode": "0500",
+                    "NutrientDescription": "Sugar",
+                    "UnitCode": "%",
+                    "Value": "0.7"
+                },
+                {
+                    "NutrientCode": "0070",
+                    "NutrientDescription": "Crude Fibre",
+                    "UnitCode": "%",
+                    "Value": "1.5"
+                },
+                {
+                    "NutrientCode": "0055",
+                    "NutrientDescription": "Fat (Acid Hydrolysis)",
+                    "UnitCode": "%",
+                    "Value": "4.1"
+                },
+                {
+                    "NutrientCode": "0100",
+                    "NutrientDescription": "NDF",
+                    "UnitCode": "%",
+                    "Value": "8.5"
+                },
+                {
+                    "NutrientCode": "0030",
+                    "NutrientDescription": "Ash",
+                    "UnitCode": "%",
+                    "Value": "1.3"
+                },
+                {
+                    "NutrientCode": "0110",
+                    "NutrientDescription": "ADF",
+                    "UnitCode": "%",
+                    "Value": "2.1"
+                },
+                {
+                    "NutrientCode": "2090",
+                    "NutrientDescription": "LYS",
+                    "UnitCode": "%",
+                    "Value": "0.24"
+                },
+                {
+                    "NutrientCode": "2140",
+                    "NutrientDescription": "THR",
+                    "UnitCode": "%",
+                    "Value": "0.3"
+                },
+                {
+                    "NutrientCode": "2100",
+                    "NutrientDescription": "MET",
+                    "UnitCode": "%",
+                    "Value": "0.17"
+                },
+                {
+                    "NutrientCode": "2030",
+                    "NutrientDescription": "CYS",
+                    "UnitCode": "%",
+                    "Value": "0.2"
+                },
+                {
+                    "NutrientCode": "2190",
+                    "NutrientDescription": "MET+CYS",
+                    "UnitCode": "%",
+                    "Value": "0.37"
+                },
+                {
+                    "NutrientCode": "2150",
+                    "NutrientDescription": "TRP",
+                    "UnitCode": "%",
+                    "Value": "0.05"
+                },
+                {
+                    "NutrientCode": "FW_01",
+                    "NutrientDescription": "AMEn",
+                    "UnitCode": "MJ/kg",
+                    "Value": "13.6"
+                }
+            ]
+        }
+    ]
+}

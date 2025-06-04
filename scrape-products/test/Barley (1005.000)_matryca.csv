@@ -1,0 +1,98 @@
+Label,Value,Unit
+%dCPrum,74,74 % - -
+%dCFATrum,83,83 % - -
+%dCFIBRErum,35,35 % - -
+%dNFErum,90,90 % - -
+%dOMrum,85,85 % - -
+%dCPpig,74,74 % - -
+%dCFAThpig,58,58 % - -
+%dCFIBREpig,15,15 % - -
+%dNFEpig,92,92 % - -
+%dOMpig,85,85 % - -
+%dNSPpig,54,54 % - -
+%idSTARCH,100,100 % -
+StaDCP,35,35 % -
+AppDCP,30,30 % - -
+%dCPpoultry,70,70 % -
+%dCFATpoultry,64,64 % -
+%dNFEpoultry,84,84 % - -
+%dPpoultry,38,38 % -
+%dCFATlayer,64,64 % -
+%dCPbroiler,71,71 % - -
+DCCFATh,54,54 % - -
+DC(S+S),98,98 % - -
+DCNFEh,75,75 % - -
+%dCPrabbit,65,65 % -
+%dCFATrabbit,85,85 % -
+%dCFIBRErabbit,15,15 % -
+%dNFErabbit,87,87 % -
+DCCP,80,80 % - -
+DCOM,84,84 % - -
+CP,78,78 % -
+sta%idLYSpig,77,77 % -
+sta%idMETpig,82,82 % -
+sta%idCYSpig,84,84 % -
+sta%idTHRpig,76,76 % -
+sta%idTRPpig,81,81 % -
+sta%idILEpig,81,81 % -
+sta%idARGpig,83,83 % -
+sta%idPHEpig,82,82 % -
+sta%idHISpig,82,82 % -
+sta%idLEUpig,83,83 % -
+sta%idTYRpig,77,77 % -
+sta%idVALpig,80,80 % -
+sta%idALApig,73,73 % -
+sta%idASPpig,75,75 % -
+sta%idGLUpig,88,88 % -
+sta%idGLYpig,76,76 % -
+sta%idPROpig,80,80 % -
+sta%idSERpig,81,81 % -
+LYS,3.6,3.6 g/100 g - in 16gN
+MET,1.7,1.7 g/100 g - in 16gN
+CYS,2.2,2.2 g/100 g - in 16gN
+THR,3.4,3.4 g/100 g - in 16gN
+TRP,1.2,1.2 g/100 g - in 16gN
+ILE,3.5,3.5 g/100 g - in 16gN
+ARG,4.9,4.9 g/100 g - in 16gN
+PHE,5.0,5.0 g/100 g - in 16gN
+HIS,2.2,2.2 g/100 g - in 16gN
+LEU,6.9,6.9 g/100 g - in 16gN
+TYR,3.1,3.1 g/100 g - in 16gN
+VAL,4.9,4.9 g/100 g - in 16gN
+ALA,4.1,4.1 g/100 g - in 16gN
+ASP,6.0,6.0 g/100 g - in 16gN
+GLU,23.5,23.5 g/100 g - in 16gN
+GLY,4.0,4.0 g/100 g - in 16gN
+PRO,10.8,10.8 g/100 g - in 16gN
+SER,4.2,4.2 g/100 g - in 16gN
+Sum AA,95.2,95.2 g/100 g - in 16gN
+%dLYSpoultry,81,81 % -
+%dMETpoultry,91,91 % -
+%dCYSpoultry,76,76 % -
+%dTHRpoultry,75,75 % -
+%dTRPpoultry,79,79 % -
+%dILEpoultry,82,82 % -
+%dARGpoultry,78,78 % -
+%dPHEpoultry,81,81 % -
+%dHISpoultry,79,79 % -
+%dLEUpoultry,81,81 % -
+%dTYRpoultry,75,75 % -
+%dVALpoultry,80,80 % -
+%dALApoultry,75,75 % -
+%dASPpoultry,72,72 % -
+%dGLUpoultry,87,87 % -
+%dGLYpoultry,72,72 % -
+%dPROpoultry,83,83 % -
+%dSERpoultry,78,78 % -
+<=C10,,% - in FA
+C12:0,,% - in FA
+C14:0,0.4,0.4 % - in FA
+C16:0,23.0,23.0 % - in FA
+C16:1,0.4,0.4 % - in FA
+C18:0,1.0,1.0 % - in FA
+C18:1,13.0,13.0 % - in FA
+C18:2,56.0,56.0 % - in FA
+C18:3,6.0,6.0 % - in FA
+>=C20,,% - in FA
+Sum FA,99.8,99.8 % - -
+% FA in CFAT-fraction,70,70 % - -

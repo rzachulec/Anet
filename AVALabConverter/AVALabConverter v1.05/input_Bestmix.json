@@ -1,0 +1,160 @@
+{
+    "Samples": [
+        {
+            "IngredientCode": "00027544-402252",
+            "SampleCode": "00027544-402252",
+            "Description": [
+                {
+                    "LanguageCode": "EN",
+                    "Description": "sample 1"
+                }
+            ],
+            "Analysis": [
+                {
+                    "NutrientCode": "VBDS",
+                    "NutrientDescription": "DM",
+                    "UnitCode": "%",
+                    "Value": 45.4
+                },
+                {
+                    "NutrientCode": "VAPH",
+                    "NutrientDescription": "pH",
+                    "UnitCode": "-",
+                    "Value": 4.0
+                },
+                {
+                    "NutrientCode": "VBVEM",
+                    "NutrientDescription": "VEM",
+                    "UnitCode": "/kg",
+                    "Value": 909.0
+                },
+                {
+                    "NutrientCode": "VBVEVI",
+                    "NutrientDescription": "VEVI",
+                    "UnitCode": "/kg",
+                    "Value": 931.0
+                },
+                {
+                    "NutrientCode": "VBDVE",
+                    "NutrientDescription": "DVE (1991)",
+                    "UnitCode": "%",
+                    "Value": 2.22
+                },
+                {
+                    "NutrientCode": "VBOEB",
+                    "NutrientDescription": "OEB (1991)",
+                    "UnitCode": "%",
+                    "Value": -2.32
+                },
+                {
+                    "NutrientCode": "VBVOS",
+                    "NutrientDescription": "VOS",
+                    "UnitCode": "%",
+                    "Value": 31.42
+                },
+                {
+                    "NutrientCode": "VBFOS",
+                    "NutrientDescription": "FOS (1991)",
+                    "UnitCode": "%",
+                    "Value": 26.42
+                },
+                {
+                    "NutrientCode": "VBOEP2",
+                    "NutrientDescription": "OEB+ 2 hours",
+                    "UnitCode": "%",
+                    "Value": 0.59
+                },
+                {
+                    "NutrientCode": "VBFOP2",
+                    "NutrientDescription": "FOSp+ 2 hours",
+                    "UnitCode": "%",
+                    "Value": 5.95
+                },
+                {
+                    "NutrientCode": "VBSW",
+                    "NutrientDescription": "Structure value",
+                    "UnitCode": "/kg",
+                    "Value": 2.5
+                },
+                {
+                    "NutrientCode": "VARAS",
+                    "NutrientDescription": "Crude ash",
+                    "UnitCode": "%",
+                    "Value": 1.54
+                },
+                {
+                    "NutrientCode": "VAVCOS",
+                    "NutrientDescription": "Dig.OM% (%OM)",
+                    "UnitCode": "%",
+                    "Value": 32.51
+                },
+                {
+                    "NutrientCode": "VBNH3F",
+                    "NutrientDescription": "NH3-fraction (%CP)",
+                    "UnitCode": "%",
+                    "Value": 3.63
+                },
+                {
+                    "NutrientCode": "VARE",
+                    "NutrientDescription": "Crude protein",
+                    "UnitCode": "%",
+                    "Value": 2.5
+                },
+                {
+                    "NutrientCode": "VBREIN",
+                    "NutrientDescription": "Cr.Protein total",
+                    "UnitCode": "%",
+                    "Value": 2.72
+                },
+                {
+                    "NutrientCode": "VARVET",
+                    "NutrientDescription": "Crude fat",
+                    "UnitCode": "%",
+                    "Value": 1.0
+                },
+                {
+                    "NutrientCode": "VARC",
+                    "NutrientDescription": "Crude fibre",
+                    "UnitCode": "%",
+                    "Value": 11.44
+                },
+                {
+                    "NutrientCode": "VASUIK",
+                    "NutrientDescription": "Sugar",
+                    "UnitCode": "%",
+                    "Value": 0.54
+                },
+                {
+                    "NutrientCode": "VANDF",
+                    "NutrientDescription": "NDF",
+                    "UnitCode": "%",
+                    "Value": 23.2
+                },
+                {
+                    "NutrientCode": "VBVCW",
+                    "NutrientDescription": "NDF digest.(%NDF)",
+                    "UnitCode": "%",
+                    "Value": 25.42
+                },
+                {
+                    "NutrientCode": "VAADF",
+                    "NutrientDescription": "ADF",
+                    "UnitCode": "%",
+                    "Value": 13.67
+                },
+                {
+                    "NutrientCode": "VAADL",
+                    "NutrientDescription": "ADL",
+                    "UnitCode": "%",
+                    "Value": 0.95
+                },
+                {
+                    "NutrientCode": "VBME",
+                    "NutrientDescription": "ME (MJ)",
+                    "UnitCode": "JK",
+                    "Value": 10.2
+                }
+            ]
+        }
+    ]
+}

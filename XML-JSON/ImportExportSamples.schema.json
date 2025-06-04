@@ -1,0 +1,197 @@
+{
+  "definitions": {
+    "ImportExportAnalysisValue": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "properties": {
+        "NutrientCode": {
+          "type": "string"
+        },
+        "NutrientDescription": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "Value": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "SupplyFromEquation": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "UnitCode": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "NutrientCode"
+      ]
+    },
+    "ImportExportSample": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "properties": {
+        "SampleCode": {
+          "type": "string"
+        },
+        "Description": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "$ref": "#/definitions/ImportExportTranslation"
+          }
+        },
+        "DescriptionExtended": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "$ref": "#/definitions/ImportExportTranslation"
+          }
+        },
+        "FolderCode": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "CustomerCode": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "CustomerName": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "IngredientCode": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "IngredientName": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "AdvisorEmail": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "SamplingDate": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "LabReference": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "LabArrivalDate": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "ReportDate": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "Remark": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "FarmId": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "LabCode": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "Analysis": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "$ref": "#/definitions/ImportExportAnalysisValue"
+          }
+        }
+      },
+      "required": [
+        "SampleCode"
+      ]
+    },
+    "ImportExportTranslation": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "properties": {
+        "LanguageCode": {
+          "type": "string"
+        },
+        "Description": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "LanguageCode",
+        "Description"
+      ]
+    }
+  },
+  "type": [
+    "object",
+    "null"
+  ],
+  "properties": {
+    "Samples": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/ImportExportSample"
+      }
+    }
+  },
+  "required": [
+    "Samples"
+  ]
+}

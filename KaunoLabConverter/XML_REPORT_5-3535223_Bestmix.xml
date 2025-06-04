@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Transaction><MessageType>BML_LABRES</MessageType><MessageVersion>1.0</MessageVersion><LaboratoryName>AGROLAB LUFA GmbH</LaboratoryName><RequesterName>10003870</RequesterName><ReportDate>2024-12-23T00:00:00</ReportDate><Sample><SampleIDLab>517377</SampleIDLab><SampleIDRequester>3535223</SampleIDRequester><SampleArrivalDate>2024-12-11T00:00:00</SampleArrivalDate><ArticleName>5) Betaine Hydrochloride 97% Healthy (Henan) Biotech Co., Ltd. Batch No: 2024070603  
+ Seal. No.: 2472335</ArticleName><Property><PropertyID>77778</PropertyID><PropertyName>Betaine</PropertyName><ResultN>73,9</ResultN><Unit>%</Unit><MethodName>MP-01308-DE : 2023-09 (HPLC)</MethodName></Property></Sample></Transaction>

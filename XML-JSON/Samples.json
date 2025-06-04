@@ -1,0 +1,595 @@
+{
+	"Samples": [
+		{
+			"IngredientCode": "A8804003",
+			"CustomerCode": "328401",
+			"SampleCode": "433460",
+			"Description": [
+				{
+					"LanguageCode": "NL",
+					"Description": "3e snee 2023"
+				},
+				{
+					"LanguageCode": "EN",
+					"Description": "3e snee 2023"
+				}
+			],
+			"Analysis": [
+				{
+					"NutrientCode": "0010",
+					"NutrientDescription": "Dm",
+					"UnitCode": "%",
+					"Value": 36.6
+				},
+				{
+					"NutrientCode": "0070",
+					"NutrientDescription": "Crude fiber",
+					"UnitCode": "%",
+					"Value": 8.1252
+				},
+				{
+					"NutrientCode": "0030",
+					"NutrientDescription": "Ash",
+					"UnitCode": "%",
+					"Value": 4.6116
+				},
+				{
+					"NutrientCode": "1830",
+					"NutrientDescription": "NH3",
+					"UnitCode": "%",
+					"Value": 9
+				},
+				{
+					"NutrientCode": "0040",
+					"NutrientDescription": "CP",
+					"UnitCode": "%",
+					"Value": 5.77182
+				},
+				{
+					"NutrientCode": "0100",
+					"NutrientDescription": "NDF",
+					"UnitCode": "%",
+					"Value": 15.2988
+				},
+				{
+					"NutrientCode": "0500",
+					"NutrientDescription": "Sugar",
+					"UnitCode": "%",
+					"Value": 4.1358
+				},
+				{
+					"NutrientCode": "0520",
+					"NutrientDescription": "Lactic",
+					"UnitCode": "%",
+					"Value": 1.6836
+				},
+				{
+					"NutrientCode": "0530",
+					"NutrientDescription": "Acetic",
+					"UnitCode": "%",
+					"Value": 0.366
+				},
+				{
+					"NutrientCode": "0550",
+					"NutrientDescription": "Butyric",
+					"UnitCode": "%",
+					"Value": 0.04026
+				},
+				{
+					"NutrientCode": "4000",
+					"NutrientDescription": "Ca",
+					"UnitCode": "%",
+					"Value": 1.9398
+				},
+				{
+					"NutrientCode": "4020",
+					"NutrientDescription": "Mg",
+					"UnitCode": "%",
+					"Value": 0.8784
+				},
+				{
+					"NutrientCode": "4010",
+					"NutrientDescription": "P",
+					"UnitCode": "%",
+					"Value": 1.83
+				},
+				{
+					"NutrientCode": "4040",
+					"NutrientDescription": "Na",
+					"UnitCode": "%",
+					"Value": 0.9882
+				},
+				{
+					"NutrientCode": "4030",
+					"NutrientDescription": "K",
+					"UnitCode": "%",
+					"Value": 11.5656
+				},
+				{
+					"NutrientCode": "4050",
+					"NutrientDescription": "Cl",
+					"UnitCode": "%",
+					"Value": 5.4168
+				},
+				{
+					"NutrientCode": "4060",
+					"NutrientDescription": "S",
+					"UnitCode": "%",
+					"Value": 1.2078
+				},
+				{
+					"NutrientCode": "4510",
+					"NutrientDescription": "Cu",
+					"UnitCode": "ppm",
+					"Value": 2.928
+				},
+				{
+					"NutrientCode": "4560",
+					"NutrientDescription": "Zn",
+					"UnitCode": "ppm",
+					"Value": 15.006
+				},
+				{
+					"NutrientCode": "4540",
+					"NutrientDescription": "Mn",
+					"UnitCode": "ppm",
+					"Value": 32.94
+				},
+				{
+					"NutrientCode": "4550",
+					"NutrientDescription": "Se",
+					"UnitCode": "ppm",
+					"Value": 28.182
+				},
+				{
+					"NutrientCode": "4500",
+					"NutrientDescription": "Co",
+					"UnitCode": "ppm",
+					"Value": 44.652
+				},
+				{
+					"NutrientCode": "4520",
+					"NutrientDescription": "I",
+					"UnitCode": "ppm",
+					"Value": 0.1098
+				},
+				{
+					"NutrientCode": "4530",
+					"NutrientDescription": "Fe",
+					"UnitCode": "ppm",
+					"Value": 127.002
+				},
+				{
+					"NutrientCode": "6732",
+					"NutrientDescription": "dNDF-x",
+					"UnitCode": "%",
+					"Value": 72
+				},
+				{
+					"NutrientCode": "6733",
+					"NutrientDescription": "1 timepoint in vitro",
+					"UnitCode": "hrs",
+					"Value": 48
+				},
+				{
+					"NutrientCode": "0110",
+					"NutrientDescription": "ADF",
+					"UnitCode": "%",
+					"Value": 8.784
+				},
+				{
+					"NutrientCode": "0120",
+					"NutrientDescription": "Lignin",
+					"UnitCode": "%",
+					"Value": 0.78698418
+				},
+				{
+					"NutrientCode": "0050",
+					"NutrientDescription": "Fat (EE)",
+					"UnitCode": "%",
+					"Value": 1.464
+				},
+				{
+					"NutrientCode": "0811",
+					"NutrientDescription": "SP %CP",
+					"UnitCode": "%",
+					"Value": 75
+				},
+			],
+		},
+		{
+			"IngredientCode": "A8804015",
+			"CustomerCode": "328401",
+			"SampleCode": "433398",
+			"Description": [
+				{
+					"LanguageCode": "NL",
+					"Description": "4e snee 2023"
+				},
+				{
+					"LanguageCode": "EN",
+					"Description": "4e snee 2023"
+				}
+			],
+			"Analysis": [
+				{
+					"NutrientCode": "0010",
+					"NutrientDescription": "Dm",
+					"UnitCode": "%",
+					"Value": 20.6
+				},
+				{
+					"NutrientCode": "0070",
+					"NutrientDescription": "Crude fiber",
+					"UnitCode": "%",
+					"Value": 5.1088
+				},
+				{
+					"NutrientCode": "0030",
+					"NutrientDescription": "Ash",
+					"UnitCode": "%",
+					"Value": 2.9458
+				},
+				{
+					"NutrientCode": "1830",
+					"NutrientDescription": "NH3",
+					"UnitCode": "%",
+					"Value": 23
+				},
+				{
+					"NutrientCode": "0040",
+					"NutrientDescription": "CP",
+					"UnitCode": "%",
+					"Value": 5.34364
+				},
+				{
+					"NutrientCode": "0100",
+					"NutrientDescription": "NDF",
+					"UnitCode": "%",
+					"Value": 9.476
+				},
+				{
+					"NutrientCode": "0500",
+					"NutrientDescription": "Sugar",
+					"UnitCode": "%",
+					"Value": 0.309
+				},
+				{
+					"NutrientCode": "0520",
+					"NutrientDescription": "Lactic",
+					"UnitCode": "%",
+					"Value": 1.0918
+				},
+				{
+					"NutrientCode": "0530",
+					"NutrientDescription": "Acetic",
+					"UnitCode": "%",
+					"Value": 0.5974
+				},
+				{
+					"NutrientCode": "0550",
+					"NutrientDescription": "Butyric",
+					"UnitCode": "%",
+					"Value": 0.8652
+				},
+				{
+					"NutrientCode": "4000",
+					"NutrientDescription": "Ca",
+					"UnitCode": "%",
+					"Value": 1.0918
+				},
+				{
+					"NutrientCode": "4020",
+					"NutrientDescription": "Mg",
+					"UnitCode": "%",
+					"Value": 0.4944
+				},
+				{
+					"NutrientCode": "4010",
+					"NutrientDescription": "P",
+					"UnitCode": "%",
+					"Value": 1.03
+				},
+				{
+					"NutrientCode": "4040",
+					"NutrientDescription": "Na",
+					"UnitCode": "%",
+					"Value": 0.5562
+				},
+				{
+					"NutrientCode": "4030",
+					"NutrientDescription": "K",
+					"UnitCode": "%",
+					"Value": 6.5096
+				},
+				{
+					"NutrientCode": "4050",
+					"NutrientDescription": "Cl",
+					"UnitCode": "%",
+					"Value": 3.1724
+				},
+				{
+					"NutrientCode": "4060",
+					"NutrientDescription": "S",
+					"UnitCode": "%",
+					"Value": 0.6798
+				},
+				{
+					"NutrientCode": "4510",
+					"NutrientDescription": "Cu",
+					"UnitCode": "ppm",
+					"Value": 1.648
+				},
+				{
+					"NutrientCode": "4560",
+					"NutrientDescription": "Zn",
+					"UnitCode": "ppm",
+					"Value": 8.446
+				},
+				{
+					"NutrientCode": "4540",
+					"NutrientDescription": "Mn",
+					"UnitCode": "ppm",
+					"Value": 18.54
+				},
+				{
+					"NutrientCode": "4550",
+					"NutrientDescription": "Se",
+					"UnitCode": "ppm",
+					"Value": 15.862
+				},
+				{
+					"NutrientCode": "4500",
+					"NutrientDescription": "Co",
+					"UnitCode": "ppm",
+					"Value": 25.132
+				},
+				{
+					"NutrientCode": "4520",
+					"NutrientDescription": "I",
+					"UnitCode": "ppm",
+					"Value": 0.0618
+				},
+				{
+					"NutrientCode": "4530",
+					"NutrientDescription": "Fe",
+					"UnitCode": "ppm",
+					"Value": 71.482
+				},
+				{
+					"NutrientCode": "6732",
+					"NutrientDescription": "dNDF-x",
+					"UnitCode": "%",
+					"Value": 71.5
+				},
+				{
+					"NutrientCode": "6733",
+					"NutrientDescription": "1 timepoint in vitro",
+					"UnitCode": "hrs",
+					"Value": 48
+				},
+				{
+					"NutrientCode": "0110",
+					"NutrientDescription": "ADF",
+					"UnitCode": "%",
+					"Value": 5.665
+				},
+				{
+					"NutrientCode": "0120",
+					"NutrientDescription": "Lignin",
+					"UnitCode": "%",
+					"Value": 0.47735968
+				},
+				{
+					"NutrientCode": "0050",
+					"NutrientDescription": "Fat (EE)",
+					"UnitCode": "%",
+					"Value": 1.1742
+				},
+				{
+					"NutrientCode": "0811",
+					"NutrientDescription": "SP %CP",
+					"UnitCode": "%",
+					"Value": 73
+				},
+			],
+		},
+		{
+			"IngredientCode": "A3026",
+			"CustomerCode": "328401",
+			"SampleCode": "433642",
+			"Description": [
+				{
+					"LanguageCode": "NL",
+					"Description": "Mais 2023"
+				},
+				{
+					"LanguageCode": "EN",
+					"Description": "Mais 2023"
+				}
+			],
+			"Analysis": [
+				{
+					"NutrientCode": "0010",
+					"NutrientDescription": "Dm",
+					"UnitCode": "%",
+					"Value": 39.6
+				},
+				{
+					"NutrientCode": "0070",
+					"NutrientDescription": "Crude fiber",
+					"UnitCode": "%",
+					"Value": 6.4944
+				},
+				{
+					"NutrientCode": "0030",
+					"NutrientDescription": "Ash",
+					"UnitCode": "%",
+					"Value": 1.1484
+				},
+				{
+					"NutrientCode": "0065",
+					"NutrientDescription": "Starch-Ewers",
+					"UnitCode": "%",
+					"Value": 15.8796
+				},
+				{
+					"NutrientCode": "1830",
+					"NutrientDescription": "NH3",
+					"UnitCode": "%",
+					"Value": 8
+				},
+				{
+					"NutrientCode": "0040",
+					"NutrientDescription": "CP",
+					"UnitCode": "%",
+					"Value": 2.7522
+				},
+				{
+					"NutrientCode": "0100",
+					"NutrientDescription": "NDF",
+					"UnitCode": "%",
+					"Value": 14.3748
+				},
+				{
+					"NutrientCode": "0500",
+					"NutrientDescription": "Sugar",
+					"UnitCode": "%",
+					"Value": 0.4752
+				},
+				{
+					"NutrientCode": "0520",
+					"NutrientDescription": "Lactic",
+					"UnitCode": "%",
+					"Value": 1.6236
+				},
+				{
+					"NutrientCode": "0530",
+					"NutrientDescription": "Acetic",
+					"UnitCode": "%",
+					"Value": 0.594
+				},
+				{
+					"NutrientCode": "4000",
+					"NutrientDescription": "Ca",
+					"UnitCode": "%",
+					"Value": 0.594
+				},
+				{
+					"NutrientCode": "4020",
+					"NutrientDescription": "Mg",
+					"UnitCode": "%",
+					"Value": 0.4752
+				},
+				{
+					"NutrientCode": "4010",
+					"NutrientDescription": "P",
+					"UnitCode": "%",
+					"Value": 0.7128
+				},
+				{
+					"NutrientCode": "4040",
+					"NutrientDescription": "Na",
+					"UnitCode": "%",
+					"Value": 0.1188
+				},
+				{
+					"NutrientCode": "4030",
+					"NutrientDescription": "K",
+					"UnitCode": "%",
+					"Value": 4.2768
+				},
+				{
+					"NutrientCode": "4050",
+					"NutrientDescription": "Cl",
+					"UnitCode": "%",
+					"Value": 0.792
+				},
+				{
+					"NutrientCode": "4060",
+					"NutrientDescription": "S",
+					"UnitCode": "%",
+					"Value": 0.396
+				},
+				{
+					"NutrientCode": "4510",
+					"NutrientDescription": "Cu",
+					"UnitCode": "ppm",
+					"Value": 1.5444
+				},
+				{
+					"NutrientCode": "4560",
+					"NutrientDescription": "Zn",
+					"UnitCode": "ppm",
+					"Value": 13.464
+				},
+				{
+					"NutrientCode": "4540",
+					"NutrientDescription": "Mn",
+					"UnitCode": "ppm",
+					"Value": 9.108
+				},
+				{
+					"NutrientCode": "4550",
+					"NutrientDescription": "Se",
+					"UnitCode": "ppm",
+					"Value": 8.712
+				},
+				{
+					"NutrientCode": "4500",
+					"NutrientDescription": "Co",
+					"UnitCode": "ppm",
+					"Value": 17.82
+				},
+				{
+					"NutrientCode": "4520",
+					"NutrientDescription": "I",
+					"UnitCode": "ppm",
+					"Value": 0.0792
+				},
+				{
+					"NutrientCode": "4530",
+					"NutrientDescription": "Fe",
+					"UnitCode": "ppm",
+					"Value": 43.956
+				},
+				{
+					"NutrientCode": "6732",
+					"NutrientDescription": "dNDF-x",
+					"UnitCode": "%",
+					"Value": 54
+				},
+				{
+					"NutrientCode": "6733",
+					"NutrientDescription": "1 timepoint in vitro",
+					"UnitCode": "hrs",
+					"Value": 48
+				},
+				{
+					"NutrientCode": "0110",
+					"NutrientDescription": "ADF",
+					"UnitCode": "%",
+					"Value": 8.0784
+				},
+				{
+					"NutrientCode": "0120",
+					"NutrientDescription": "Lignin",
+					"UnitCode": "%",
+					"Value": 0.6336
+				},
+				{
+					"NutrientCode": "0050",
+					"NutrientDescription": "Fat (EE)",
+					"UnitCode": "%",
+					"Value": 1.2672
+				},
+				{
+					"NutrientCode": "0811",
+					"NutrientDescription": "SP %CP",
+					"UnitCode": "%",
+					"Value": 56
+				},
+			],
+		},
+	],
+}

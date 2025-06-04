@@ -1,0 +1,12 @@
+1) TODO W składnikach z kodem poniżej 1000 poprawić kody na kody z BX4.
+2) TODO Jeśli jakiegoś składnika w BX4 brakuje - zrobić listę brakujących. Trzeba
+ będzie je dodać jak będziemy mieli wejście do jego bazy danych 
+3) TODO Usunąć składniki klienta, które są puste (np. o kodzie 1226) 
+4) TODO W składnikach z kodem powyżej 1000 wyfiltrować składniki z jednostką: 
+kcal, MJ, ppb, IU, JM, FTU, ppm, -, U, U/kg, OTU, FBG, EPU, G/L, TGU, PRT, 
+VU (wszystko co w BX 4 nie ma typu wagi)
+
+
+                          132   10    96   143      23     153
+1  T≥uszcz Surowy (Hydroliza)   ADL    IP   S-o  J tot.     CAB
+2                        g/kg  g/kg  g/kg  g/kg   mg/kg  meq/kg
