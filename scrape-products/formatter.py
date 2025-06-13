@@ -82,7 +82,6 @@ for filename in os.listdir(csv_dir):
                 if unit == 'MJ': label = 'OEk'
                 else: label = 'OEkKC'
             elif label == 'NEm':
-                print(label, ", ", unit)
                 if unit == 'kcal': label = 'NEmKC'
             elif label == 'EW2015': label = 'EW'
             elif label == 'NE2015':
@@ -99,6 +98,9 @@ for filename in os.listdir(csv_dir):
                 if unit == 'MJ': label = 'OEslk'
                 else: label = 'OEslkKC'
             elif label == '%RUSTA': label = 'DRUSTA'
+            elif label == 'VEM2022': label = 'VEM'
+            elif label == 'C:18:2': label = 'C18:2'
+            
             
             # Find the matching column by checking second-row codes
             matching_column = None
@@ -162,6 +164,8 @@ for filename in os.listdir(csv_dir):
                 unit = '-'
             
             label = label.removesuffix('-07').replace('-', '').replace(' ', '')
+            
+            if label == '%dNSPpig': label = 'DCNSPh'
 
             # Find the matching column by checking second-row codes
             matching_column = None
